@@ -639,6 +639,30 @@ public sealed partial class DirectExecutionBackend
 			"2Z+PpY6CaJg" or
 			"8aI7R7WaOlc" or
 			"zgXifHT9ErY" or // sceVideoOutIsFlipPending
+			"V++UgBtQhn0" or // sceAgcGetDataPacketPayloadAddress
+			"qj7QZpgr9Uw" or // Gen5 graphics type-2 packet
+			"LtTouSCZjHM" or // sceAgcCbNop
+			"k3GhuSNmBLU" or // sceAgcCbDispatch
+			"UZbQjYAwwXM" or // sceAgcCbSetShRegistersDirect
+			"JrtiDtKeS38" or // sceAgcAcbResetQueue
+			"cFazmnXpJOE" or // sceAgcAcbEventWrite
+			"KT-hTp-Ch14" or // sceAgcAcbAcquireMem
+			"htn36gPnBk4" or // sceAgcAcbWaitRegMem
+			"eZ4+17OQz4Q" or // sceAgcAcbWriteData
+			"j3EtxFkSIhQ" or // sceAgcAcbDispatchIndirect
+			"gSRnr79F8tQ" or // sceAgcDriverSubmitAcb
+			"i1jyy49AjXU" or // sceAgcDcbWriteData
+			"VmW0Tdpy420" or // sceAgcDcbWaitRegMem
+			"WmAc2MEj6Io" or // sceAgcDcbDmaData
+			"rUuVjyR+Rd4" or // sceAgcDcbGetLodStatsGetSize
+			"vuSXe69VILM" or // sceAgcDcbGetLodStats
+			"RmaJwLtc8rY" or // sceAgcDcbSetBaseIndirectArgs
+			"CtB+A9-VxO0" or // sceAgcDcbDispatchIndirect
+			"+kSrjIVxKFE" or // sceAgcDcbPushMarker
+			"H7uZqCoNuWk" or // sceAgcDcbPopMarker
+			"IxYiarKlXxM" or // sceAgcDmaDataPatchSetDstAddressOrOffset
+			"3KDcnM3lrcU" or // sceAgcWaitRegMemPatchAddress
+			"0fWWK5uG9rQ" or // sceAgcQueueEndOfPipeActionPatchAddress
 			"a8uLzYY--tM" or
 			"Qs1xtplKo0U" or
 			"GuchCTefuZw" or
